@@ -9,7 +9,7 @@
 3. 64f995bb Слита ветка 'origin/boots' в boots_buttons
 4. Исправлен readme
 
-Всего 7 коммитов, вот комментарии из них
+Всего 9 коммитов, вот комментарии из них
 1. init
 2. README added
 3. fix readme
@@ -17,3 +17,4 @@
 5. dots
 6. heat added
 7. Добавлен файл hometask.txt
+8. Последние коммиты где hometask изменён и ещё раз изменён
