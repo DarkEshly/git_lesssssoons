@@ -8,3 +8,12 @@
 2. 831d53a0 Слита ветка 'origin/buttons' в boots_buttons
 3. 64f995bb Слита ветка 'origin/boots' в boots_buttons
 4. Исправлен readme
+
+Всего 7 коммитов, вот комментарии из них
+1. init
+2. README added
+3. fix readme
+4. boots
+5. dots
+6. heat added
+7. Добавлен файл hometask.txt
