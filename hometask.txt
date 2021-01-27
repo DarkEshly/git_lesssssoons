@@ -1,0 +1,10 @@
+Коммиты существующие в ветке demo но не в ветку master
+1. 1ebbb726 Слитие ветки 'buttons' в demo
+2. 13e0611d Слита ветка 'boots' в релиз
+
+
+Коммиты существующие в master о не существующие в demo
+1. 9defed31 Слита ветка 'origin/hat'
+2. 831d53a0 Слита ветка 'origin/buttons' в boots_buttons
+3. 64f995bb Слита ветка 'origin/boots' в boots_buttons
+4. Исправлен readme
